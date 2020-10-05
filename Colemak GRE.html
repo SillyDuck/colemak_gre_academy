@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<!-- saved from url=(0024)https://colemak.academy/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Colemak Academy - Learn Colemak fast. A free, easy way to learn to touch type the Colemak layout, Colemak-DH, Dvorak, and other custom keyboard layouts. The best, most customizable typing tutor and keyboard trainer available. Also works for workman, qwerty, and azerty</title>
+	
+	<meta name="description" content="Colemak Academy - Learn Colemak fast. A free, easy way to learn to touch type the Colemak layout, Colemak-DH, Dvorak, and other custom keyboard layouts. The best, most customizable typing tutor and keyboard trainer available. Also works for workman, qwerty, and azerty">
+	<meta name="author" content="Layout Academy">
+
+	<link rel="icon" href="https://colemak.academy/img/favicon.webp">
+	<link rel="stylesheet" type="text/css" href="./logic/main.css">
+</head>
+<body>
+
+	<select autocomplete="off">
+		<option value="colemak">Colemak</option>
+		<option value="azerty">AZERTY</option>
+		<option value="colemakdh">Colemak-DH</option>
+		<option value="colemakdhm">Colemak-DHm</option>
+		<option value="dvorak">Dvorak</option>
+		<option value="lefthandeddvorak">Left-handed Dvorak</option>
+		<option value="qwerty">QWERTY</option>
+		<option value="tarmak">Tarmak</option>
+		<option value="workman">Workman</option>
+		<option value="custom">Custom</option>
+	</select>
+
+	<button class="preferenceButton"></button>
+	<div class="preferenceMenu">
+		<button class="closePreferenceButton"></button>
+		<ul class="preferences">
+			<li>Capital Letters Allowed<input class="capitalLettersAllowed" type="checkbox" autocomplete="off"></li>
+			<li>Punctuation Allowed<input class="punctuationModeButton" type="checkbox" autocomplete="off"></li>
+			<li>Full Sentence Mode<input class="fullSentenceMode" type="checkbox" autocomplete="off"></li>
+			<li>Word Scrolling Mode
+				<input class="wordScrollingModeButton" type="checkbox" autocomplete="off" checked="">
+			</li>
+			<li>
+				<input class="timeLimitModeInput noDisplay" type="number" value="60" autocomplete="off">
+				Time Limit Mode<input class="timeLimitModeButton" type="checkbox" autocomplete="off">
+			</li>
+			<li>  
+				<input class="wordLimitModeInput" type="number" value="50" step="10" autocomplete="off">
+				Word Limit Mode <input class="wordLimitModeButton" type="checkbox" autocomplete="off" checked=""> 
+			</li>
+		</ul>
+	</div>
+
+	<nav>
+		<button class="currentLevel lvl1">Level 1</button>
+		<button class="lvl2">Level 2</button>
+		<button class="lvl3">Level 3</button>
+		<button class="lvl4">Level 4</button>
+		<button class="lvl5">Level 5</button>
+		<button class="lvl6">Level 6</button>
+		<button class="lvl7">All Words</button>
+		<button class="lvl8">Full Sentences</button>
+
+	</nav>
+
+	<div class="customInput" style="display: flex;">
+		<div class="buttonHolder">
+			<button class="discardButton">Discard</button>
+			<button class="saveButton">Save</button>
+		</div>
+		<div id="inputKeyboard">
+	<div class="row">
+		<div class="cKey rowStart" id="customBackquote"><span class="letter"></span></div>
+		<div class="cKey" id="customDigit1"><span class="letter"></span></div>
+		<div class="cKey" id="customDigit2"><span class="letter"></span></div>
+		<div class="cKey" id="customDigit3"><span class="letter"></span></div>
+		<div class="cKey" id="customDigit4"><span class="letter"></span></div>
+		<div class="cKey" id="customDigit5"><span class="letter"></span></div>
+		<div class="cKey" id="customDigit6"><span class="letter"></span></div>
+		<div class="cKey" id="customDigit7"><span class="letter"></span></div>
+		<div class="cKey" id="customDigit8"><span class="letter"></span></div>
+		<div class="cKey" id="customDigit9"><span class="letter"></span></div>
+		<div class="cKey" id="customDigit0"><span class="letter"></span></div>
+		<div class="cKey" id="customMinus"><span class="letter"></span></div>
+		<div class="cKey" id="customEqual"><span class="letter"></span></div>
+		<div class="cKey big rowEnd" id="customBackSpace"><span class="letter"></span></div>
+	</div>
+	<div class="row">
+		<div class="cKey big rowStart" id="customTab"><span class="letter"></span></div>
+		<div class="cKey normalCKey selectedInputKey defaultSelectedKey" id="customKeyQ"><span class="letter pulse">_</span></div>
+		<div class="cKey normalCKey" id="customKeyW"><span class="letter"></span></div>
+		<div class="cKey normalCKey" id="customKeyE"><span class="letter"></span></div>
+		<div class="cKey normalCKey" id="customKeyR"><span class="letter"></span></div>
+		<div class="cKey normalCKey" id="customKeyT"><span class="letter"></span></div>
+		<div class="cKey normalCKey" id="customKeyY"><span class="letter"></span></div>
+		<div class="cKey normalCKey" id="customKeyU"><span class="letter"></span></div>
+		<div class="cKey normalCKey" id="customKeyI"><span class="letter"></span></div>
+		<div class="cKey normalCKey" id="customKeyO"><span class="letter"></span></div>
+		<div class="cKey normalCKey" id="customKeyP"><span class="letter"></span></div>
+		<div class="cKey normalCKey" id="customBracketLeft"><span class="letter"></span></div>
+		<div class="cKey normalCKey" id="customBracketRight"><span class="letter"></span></div>
+		<div class="cKey rowEnd" id="customBackslash"><span class="letter"></span></div>
+	</div>
+	<div class="row">
+		<div class="cKey bigger rowStart" id="customCapsLock"><span class="letter"></span></div>
+		<div class="cKey lvl1 normalCKey" id="customKeyA">
+			<span class="letter"></span>
+		</div>
+		<div class="cKey lvl1 normalCKey" id="customKeyS"><span class="letter"></span></div>
+		<div class="cKey lvl1 normalCKey" id="customKeyD"><span class="letter"></span></div>
+		<div class="cKey lvl1 normalCKey restingPosition" id="customKeyF"><span class="letter"></span></div>
+		<div class="cKey lvl2 normalCKey" id="customKeyG"><span class="letter"></span></div>
+		<div class="cKey lvl2 normalCKey" id="customKeyH"><span class="letter"></span></div>
+		<div class="cKey lvl1 normalCKey restingPosition" id="customKeyJ"><span class="letter"></span></div>
+		<div class="cKey lvl1 normalCKey" id="customKeyK"><span class="letter"></span></div>
+		<div class="cKey lvl1 normalCKey" id="customKeyL"><span class="letter"></span></div>
+		<div class="cKey lvl1 normalCKey" id="customSemicolon"><span class="letter"></span></div>
+		<div class="cKey normalCKey" id="customQuote"><span class="letter"></span></div>
+		<div class="cKey bigger rowEnd" id="customEnter"><span class="letter"></span></div>
+	</div>
+	<div class="row">
+		<div class="cKey biggest rowStart"><span class="letter"></span></div>
+		<div class="cKey normalCKey" id="customKeyZ"><span class="letter"></span></div>
+		<div class="cKey lvl6 normalCKey" id="customKeyX"><span class="letter"></span></div>
+		<div class="cKey lvl6 normalCKey" id="customKeyC"><span class="letter"></span></div>
+		<div class="cKey lvl4 normalCKey" id="customKeyV"><span class="letter"></span></div>
+		<div class="cKey lvl4 normalCKey" id="customKeyB"><span class="letter"></span></div>
+		<div class="cKey lvl4 normalCKey" id="customKeyN"><span class="letter"></span></div>
+		<div class="cKey lvl4 normalCKey" id="customKeyM"><span class="letter"></span></div>
+		<div class="cKey lvl5 normalCKey" id="customComma"><span class="letter"></span></div>
+		<div class="cKey lvl6 normalCKey" id="customPeriod"><span class="letter"></span></div>
+		<div class="cKey lvl6 normalCKey" id="customSlash"><span class="letter"></span></div>
+		<div class="cKey biggest rowEnd finalKey"><span class="letter"></span></div>
+	</div>
+	<div class="row">
+		<div class="cKey rowStart"><span class="letter"></span></div>
+		<div class="cKey"><span class="letter"></span></div>
+		<div class="cKey"><span class="letter"></span></div>
+		<div class="cKey"><span class="letter"></span></div>
+		<div class="cKey Space"><span class="letter"></span></div>
+		<div class="cKey"><span class="letter"></span></div>
+		<div class="cKey"><span class="letter"></span></div>
+		<div class="cKey bigger"><span class="letter"></span></div>
+		<div class="cKey rowEnd"><span class="letter"></span></div>
+	</div>
+</div>
+		<div id="inputShiftKeyboard"></div>
+		<input type="text" name="customKey" id="customUIKeyInput">
+		<div id="customUILevelSelect">
+			<button class="customUILevelButton currentCustomUILevel">lvl1</button>
+			<button class="customUILevelButton">lvl2</button>
+			<button class="customUILevelButton">lvl3</button>
+			<button class="customUILevelButton">lvl4</button>
+			<button class="customUILevelButton">lvl5</button>
+			<button class="customUILevelButton">lvl6</button>
+		</div>
+	</div>
+
+	<section id="main">
+
+		<h1><span id="layoutName">colemak</span> Academy</h1>
+
+		<div class="typingArea">
+			<h2 id="wordMeaning"></h2>
+			<h2 id="wordMeaning2"></h2>
+			<div class="fade" id="fadeElement">
+				<h2 class="prompt" style="left: 0px;"><span class="line"><span class="word" id="id0"><span>a</span><span>r</span><span>t</span> </span><span class="word" id="id1"><span>i</span><span>n</span><span>t</span><span>r</span><span>o</span> </span><span class="word" id="id2"><span>s</span><span>e</span><span>r</span><span>i</span><span>e</span><span>s</span> </span><span class="word" id="id3"><span>r</span><span>e</span><span>t</span><span>r</span><span>e</span><span>a</span><span>t</span> </span><span class="word" id="id4"><span>i</span><span>n</span><span>t</span><span>e</span><span>r</span> </span><span class="word" id="id5"><span>r</span><span>e</span><span>a</span><span>s</span><span>o</span><span>n</span><span>s</span></span> </span><span class="line"><span class="word" id="id6"><span>r</span><span>a</span><span>i</span><span>s</span><span>e</span> </span><span class="word" id="id7"><span>t</span><span>o</span><span>n</span> </span><span class="word" id="id8"><span>n</span><span>e</span><span>s</span><span>t</span> </span><span class="word" id="id9"><span>s</span><span>i</span><span>t</span><span>e</span><span>s</span> </span><span class="word" id="id10"><span>s</span><span>e</span><span>n</span><span>s</span><span>o</span><span>r</span> </span><span class="word" id="id11"><span>s</span><span>a</span><span>t</span> </span><span class="word" id="id12"><span>s</span><span>e</span><span>r</span><span>i</span><span>e</span><span>s</span> </span><span class="word" id="id13"><span>a</span><span>s</span><span>s</span><span>e</span><span>t</span></span> </span><span class="line"><span class="word" id="id14"><span>s</span><span>t</span><span>o</span><span>n</span><span>e</span><span>s</span> </span><span class="word" id="id15"><span>n</span><span>a</span><span>t</span><span>i</span><span>o</span><span>n</span> </span><span class="word" id="id16"><span>s</span><span>t</span><span>a</span><span>r</span><span>t</span> </span><span class="word" id="id17"><span>t</span><span>r</span><span>i</span><span>e</span><span>s</span> </span><span class="word" id="id18"><span>t</span><span>i</span><span>e</span><span>r</span> </span><span class="word" id="id19"><span>t</span><span>e</span><span>s</span><span>t</span><span>s</span> </span><span class="word" id="id20"><span>t</span><span>o</span><span>o</span></span> </span></h2>
+			</div>
+			<button id="resetButton" class="noDisplay">Reset</button>
+			<input id="userInput" type="paragraph" spellcheck="false">
+			<div id="scoreAndClock">
+				<span id="scoreText">0/50</span>
+				<span id="timeText">0m :0 s</span>
+			</div>
+			<div id="testResults" class="transparent">
+				<div id="accuracyText"></div>
+				<div id="wpmText"></div>
+			</div>
+		</div>
+		<div class="cheatsheetContainer">
+			<div class="cheatsheet">
+	<div class="row">
+		<div class="key inactive" id="Backquote">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive" id="Digit1">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive" id="Digit2">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive" id="Digit3">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive" id="Digit4">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive" id="Digit5">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive" id="Digit6">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive" id="Digit7">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive" id="Digit8">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive" id="Digit9">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive" id="Digit0">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive" id="Minus">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive" id="Equal">
+			<span class="letter"></span>
+		</div>
+		<div class="key big inactive" id="BackSpace">
+			<span class="letter"></span>
+		</div>
+	</div>
+	<div class="row">
+		<div class="key big inactive">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive" id="KeyQ">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive" id="KeyW">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive" id="KeyE">
+			<span class="letter"></span>
+		</div>
+		<div class="key lvl3 inactive" id="KeyR">
+			<span class="letter"></span>
+		</div>
+		<div class="key lvl3 inactive" id="KeyT">
+			<span class="letter"></span>
+		</div>
+		<div class="key lvl3 inactive" id="KeyY">
+			<span class="letter"></span>
+		</div>
+		<div class="key lvl3 inactive" id="KeyU">
+			<span class="letter"></span>
+		</div>
+		<div class="key lvl5 inactive" id="KeyI">
+			<span class="letter"></span>
+		</div>
+		<div class="key lvl5 inactive" id="KeyO">
+			<span class="letter"></span>
+		</div>
+		<div class="key lvl5 inactive" id="KeyP">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive" id="BracketLeft">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive" id="BracketRight">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive" id="Backslash">
+			<span class="letter"></span>
+		</div>
+	</div>
+	<div class="row">
+		<div class="key bigger inactive">
+			<span class="letter"></span>
+		</div>
+		<div class="key lvl1 homeRow" id="KeyA">
+					<span class="letter">a</span>
+				</div>
+		<div class="key lvl1 homeRow" id="KeyS">
+					<span class="letter">r</span>
+				</div>
+		<div class="key lvl1 homeRow" id="KeyD">
+					<span class="letter">s</span>
+				</div>
+		<div class="key lvl1 restingPosition homeRow" id="KeyF">
+					<span class="letter">t</span>
+				</div>
+		<div class="key lvl2 inactive" id="KeyG">
+			<span class="letter"></span>
+		</div>
+		<div class="key lvl2 inactive" id="KeyH">
+			<span class="letter"></span>
+		</div>
+		<div class="key lvl1 restingPosition homeRow" id="KeyJ">
+					<span class="letter">n</span>
+				</div>
+		<div class="key lvl1 homeRow" id="KeyK">
+					<span class="letter">e</span>
+				</div>
+		<div class="key lvl1 homeRow" id="KeyL">
+					<span class="letter">i</span>
+				</div>
+		<div class="key lvl1 homeRow" id="Semicolon">
+					<span class="letter">o</span>
+				</div>
+		<div class="key inactive" id="Quote">
+			<span class="letter"></span>
+		</div>
+		<div class="key bigger inactive">
+			<span class="letter"></span>
+		</div>
+	</div>
+	<div class="row">
+		<div class="key biggest inactive">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive" id="KeyZ">
+			<span class="letter"></span>
+		</div>
+		<div class="key lvl6 inactive" id="KeyX">
+			<span class="letter"></span>
+		</div>
+		<div class="key lvl6 inactive" id="KeyC">
+			<span class="letter"></span>
+		</div>
+		<div class="key lvl4 inactive" id="KeyV">
+			<span class="letter"></span>
+		</div>
+		<div class="key lvl4 inactive" id="KeyB">
+			<span class="letter"></span>
+		</div>
+		<div class="key lvl4 inactive" id="KeyN">
+			<span class="letter"></span>
+		</div>
+		<div class="key lvl4 inactive" id="KeyM">
+			<span class="letter"></span>
+		</div>
+		<div class="key lvl5 inactive" id="Comma">
+			<span class="letter"></span>
+		</div>
+		<div class="key lvl6 inactive" id="Period">
+			<span class="letter"></span>
+		</div>
+		<div class="key lvl6 inactive" id="Slash">
+			<span class="letter"></span>
+		</div>
+		<div class="key biggest inactive">
+			<span class="letter"></span>
+		</div>
+	</div>
+	<div class="row">
+		<div class="key inactive">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive">
+			<span class="letter"></span>
+		</div>
+		<div class="key Space inactive">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive">
+			<span class="letter"></span>
+		</div>
+		<div class="key bigger inactive">
+			<span class="letter"></span>
+		</div>
+		<div class="key inactive">
+			<span class="letter"></span>
+		</div>
+	</div>
+</div>
+			<div>
+				<button class="openUIButton"></button>
+			</div>
+		</div>
+
+		<h3 class="bottomText"> Sign the <a href="https://www.change.org/p/microsoft-add-colemak-as-a-pre-installed-keyboard-layout-to-windows" target="_blank">Petition</a> for Windows to add Colemak as a default option</h3>
+	</section>
+
+	<div id="mappingToggle">
+		<h6>Keyboard Mapping: <span>on</span></h6>
+		<label class="switch">
+  			<input type="checkbox" autocomplete="off">
+ 			<span class="slider"></span>
+		</label>	
+	</div>
+
+
+<script src="http://code.jquery.com/jquery-3.3.1.slim.js" integrity="sha256-fNXJFIlca05BIO2Y5zh1xrShK3ME+/lYZ0j+ChxX2DA=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="./logic/jquery.csv.min.js"></script>
+<script type="text/javascript" src="./logic/layoutInfo.js"></script>
+<script type="text/javascript" src="./logic/wordList.js"></script>
+<script type="text/javascript" src="./logic/keyboardDivs.js"></script>
+<script type="text/javascript" src="./logic/app.js"></script>
+
+
+
+<!-- ©NickMariano 2020 -->
+</body></html>
