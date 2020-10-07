@@ -316,7 +316,7 @@ eddy,circular or spiral movement (e.g.. of wind)     ,逆流 漩渦(使)起漩
 edible,fit to be eaten/not poisonous     ,食品 食物可食用的
 effete,infertile worn out weak        ,筋疲力盡的 疲憊的 衰微的
 efficacy,production of a desired result       ,功效 效力
-effluvia,outflow in a stream of particles a noxious odor or vapor ,effluvium的復數形
+effluvia,outflow in a stream of particles a noxious odor or vapor , 臭氣,惡臭 effluvium的復數形
 effrontery,boldness impudence arrogance         ,厚顏無恥
 egress,way out exit         ,出口 外出外出
 elaborate,worked out with much care in great detail    ,精細的 詳盡的 精心的詳細地說明 用心地製作 推敲變復雜
