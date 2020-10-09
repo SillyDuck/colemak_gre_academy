@@ -1077,6 +1077,7 @@ function reset(){
 // generates a new line, adds it to prompt, and to answerWordArray
 function addLineToPrompt(){
 	let lineToAdd = generateLine(scoreMax-score-answerWordArray.length-1);
+	console.log(lineToAdd);
 	answerString += lineToAdd;
 	prompt.innerHTML += convertLineToHTML(lineToAdd);
 	answerWordArray = answerWordArray.concat(lineToAdd.split(' '));
@@ -1186,8 +1187,19 @@ function generateLine(maxWords) {
 		return str;
 	}
 
-
-	if(wordLists['lvl'+currentLevel].length > 0){
+	if(currentLevel == 7){
+		let wordsCreated = 0;
+		for(let i = 0; i < lineLength; i = i) {
+			if(wordsCreated >= maxWords){
+				break;
+			}
+			let rand = Math.floor(Math.random()*wordLists['lvl'+currentLevel].length);
+			let wordToAdd = wordLists['lvl'+currentLevel][rand];
+			str += wordToAdd + ' ';
+			i+= wordToAdd.length;
+			wordsCreated++;
+		}
+	}else if(wordLists['lvl'+currentLevel].length > 0){
 		let startingLetters = levelDictionaries[currentLayout]['lvl'+currentLevel]+punctuation;
 
 		//requiredLetters = startingLetters.split(''); 

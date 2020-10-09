@@ -12,7 +12,6 @@ abrade,rubbed off worn away by friction      ,擦傷 磨損 磨
 abrogate,repeal or annul by authority       ,廢除 取消
 abscond,to go away suddenly (to avoid arrest)     ,潛逃 逃匿
 abstruse,difficult to comprehend obscure        ,難解的 深奧的
-abut,border on          ,鄰接 毗鄰 緊靠 接近
 abysmal,bottomless extreme          ,深不可測的 無底的
 acarpous,effete no longer fertile worn out      ,無果實的; 不結實的
 acclaim,welcomed with shouts and approval       ,喝彩 歡呼 贊同歡呼 喝彩 稱贊
@@ -25,7 +24,6 @@ adulteration,making unpure poorer in quality       ,摻雜 摻假的東西 冒�
 affable,polite and friendly       ,和藹可親的 友善的 殷勤的
 affinity,close connection relationship         ,吸引力 共鳴;親密關系 相似之處
 aggravate,make worse irritate         ,加重 使惡化;激怒 惹惱
-agile,active quick-moving          ,敏捷的 靈活的 輕快的
 agog,eager/excited         ,極度興奮的 渴望的 迫不及待的
 ail,trouble be ill         ,使苦惱苦惱 生病
 alacrity,eager and cheerful readiness        ,敏捷 輕快 樂意
@@ -36,10 +34,8 @@ alloy,to debase by mixing with something inferior     ,合金使成合金 攙�
 aloof,reserved indifferent          ,疏遠的 冷淡的遠離 離開
 amalgamate,mix combine unite societies        ,使與汞混合 合併
 ambidextrous,able to use the left hand or the right equally well ,兩手俱利的 懷有二心的
-ambiguous,doubtful uncertain          ,曖昧的 不明確的
 ambivalent,having both of two contrary meanings      ,矛盾的 好惡相克的
 ameliorate,improve make better         ,改善 改良 變好
-amortize,end (a debt) by setting aside money     ,攤還 攤銷 分期償還 緩沖
 anguish,severe suffering        ,苦悶 痛苦使極苦悶 使極痛苦感到痛苦
 animosity,strong dislike          ,仇恨 憎惡 敵意
 antidote,medicine used against a poison or a disease    ,解毒劑 解藥
@@ -62,7 +58,6 @@ argot,jargon slang          ,隱語 暗語 暗號
 arrant,in the highest degree        ,聲名狼藉的 極惡的
 arrogance,proud superior manner of behaviour       ,傲慢態度 自大
 articulate,speak distinctly connect by joints       ,有關節的 發音清晰的以關節連接 接合 明白地說
-ascend,go or come up        ,上升 追溯 登高攀登
 ascertain,get to know         ,確定 探知
 ascetic,practicing self-denial austere stark        ,禁欲者 修道者修道的 苦己的 苦行
 ascribe,consider to be the origin of or belonging to   ,歸因於 歸咎於
@@ -83,7 +78,6 @@ augury,omen sign          ,占兆 占卜 預言
 august,majestic venerable          ,八月;威嚴的 令人敬畏的
 auspicious,favorable successful prosperous         ,吉兆的 幸運的
 austere,severely moral and strict simple and plain     ,嚴峻的 簡樸的
-auxiliary,helping supporting          ,幫助者 輔助物 助動詞附加的 輔助的
 aver,affirm assert prove justify        ,斷言 主張
 aversion,strong dislike          ,厭惡 討厭的事 討厭的人
 avid,eager greedy          ,熱望的 急切的 貪婪的
@@ -119,7 +113,6 @@ boorish,crude offensive rude         ,粗野的 粗鄙的
 brash,hasty rush cheeky saucy        ,性急的 倉促的 無禮的 傲慢的胃灼熱 驟雨 碎片
 brass,yellow metal (mixing copper and zinc)      ,黃銅 黃銅製品黃銅的 銅管樂器的鍍以黃銅 支付
 brazen,made of brass         ,黃銅制的 厚顏無恥的厚臉皮地對待
-breach,opening broken place breaking        ,裂口 違背 破壞 違反 突破 破裂攻破 突破跳出水面
 brittle,easily broken          ,易碎的 脆弱的 易壞的
 broach,bring up announce begin to talk about     ,燒肉叉 叉子 鑽頭串在叉上 粗刻 鑽孔露出水面
 brook,to tolerate endure         ,小溪容忍
@@ -137,7 +130,6 @@ cantankerous,bad-tempered/quarrelsome         ,心地不良的 愛吵架的
 canvass,discuss thoroughly sort of touting       ,細查 討論 勸誘徹底檢查 細究 向…拉票或拉生意 討論遊說
 castigate,to chastise correct by punishing       ,懲罰 苛評 修訂
 castigation,severe punishment          ,懲罰 苛評 修訂
-catalyst,substance that causes speeding up       ,觸媒劑
 caustic,biting sarcastic          ,腐蝕劑腐蝕性的
 censure,expression of blame or disapproval a rebuke     ,責難非難 指責
 centurion,leader of a unit of 100 soldiers     ,百夫長
@@ -169,7 +161,6 @@ collusion,secret agreement for a deceitful purpose      ,勾結 共謀
 combustion,process of burning         ,燃燒 氧化
 commemorate,keep the memory of        ,紀念
 commodious,having plenty of space for what is needed  ,寬敞的 方便的
-commuter,person who travels regularly        ,使用月季票上下班者 通勤者
 complaisance,tending to comply obliging willingness to please     ,彬彬有禮 殷勤 柔順
 compunction,feeling of regret for one's action      ,良心的責備 後悔 悔恨
 conceal,hide keep secret         ,隱瞞 隱匿 隱蔽 隱藏
@@ -189,7 +180,6 @@ conspicuous,easily seen remarkable         ,顯著的 顯眼的 出眾的
 consternation,surprise and fear dismay        ,驚愕 恐怖 驚惶失措
 constrain,compel         ,強迫 勉強 驅使
 constrict,make tight or smaller        ,壓縮 束緊 使收縮壓縮
-consume,get to the end of       ,消耗 消費 消滅消滅 毀滅
 consummate,perfect/make perfect/complete        ,完成 使達到極點無上的 至上的 完美的
 contemn,to scorn or despise        ,侮辱 蔑視
 contentious,argumentative pugnacious combative quarrelsome        ,好爭吵的 愛爭論的 有異議的
@@ -204,7 +194,6 @@ cordial,warm and sincere         ,興奮劑 補品熱忱的 誠懇的 興奮的
 cordon,line (of police acting as a guard)     ,哨兵線 非常警戒線 飾帶用警戒線圍住
 cornucopia,abundant supply        ,聚寶盆
 corporeal,physical of or for the body      ,肉體的 有形的 物質的
-correlate,have a mutual relation        ,有相互關系的東西 相關物使有相互關系互相有關系
 corroboration,additional strengthening evidence         ,使確實 確証 有確証的事實
 countenance,to favor or approve of       ,面容 面部表情 支援
 counterfeit,forgery           ,贗品 偽造品假冒的 假裝的仿造 偽裝 假裝
@@ -223,7 +212,6 @@ crush,press lose shape subdue overwhelm       ,壓碎 粉碎 群眾 迷戀壓�
 cryptic,secret with a hidden meaning       ,秘密的 神秘的 含義模糊的 隱藏的
 cumbersome,burdensome heavy and awkward to carry      ,討厭的 麻煩的 累贅的
 curmudgeon,bad-tempered person          ,存心不良的人 難以取悅的人
-curriculum,course of study         ,課程
 cursory,quick hurried          ,匆匆忙忙的 草率的 粗略的
 curtail,make shorter then was planned       ,縮減 剝奪 簡略
 dainty,pretty/delicate(food)/difficult to please       ,適口的食物優美的 講究的 適口的
@@ -234,7 +222,6 @@ debacle,a breakup overthrow sudden disaster       ,崩潰 潰裂
 decorum,propriety properness          ,端正 禮貌合宜 禮儀
 decree,order given by authority        ,法令 判決 聖旨頒布 判決發布命令
 decry,disapprove of          ,責難 誹謗 詆毀
-defer,postpone give way (to show respect)      ,推遲 延期 聽從使推遲 使延期
 deferential,showing respect          ,恭敬的
 defiance,open disobedience or resistance        ,挑戰 挑舋 蔑視
 delineate,to portray depict sketch out       ,描繪…的輪廓 描繪 描寫
@@ -264,7 +251,6 @@ diaphanous,transparent gauzy          ,透明的 精致的
 diatribe,bitter and violent attack in words      ,惡罵 誹謗
 diffidence,shyness           ,無自信 內向 羞怯
 dilate,speak comprehensively become wider large       ,擴大 詳述 膨脹使膨脹
-disallow,refuse to allow or accept as a correct    ,不許 不准 駁回
 discern,see with an effort but clearly      ,辨別 看清楚
 discomfit,confuse embarrass          ,打破 敗走 打破計劃
 disconcert,upset the self-possession of        ,使困惑 使倉皇失措 破壞
@@ -272,7 +258,6 @@ discountenance,refuse to approve of        ,使丟臉 使蒙羞 使慌張不贊
 discourse,speech lecture          ,談話 演講談論 演說
 discredit,refuse to believe         ,無信用 疑惑 不名譽不信 懷疑 使丟臉
 discreet,careful/prudent         ,小心的 慎重的
-discrete,individually distinct        ,離散的不連續的
 disdain,look on with contempt        ,輕蔑蔑視 鄙棄
 disencumber,free from encumbrance         ,除去障礙物 擺脫煩惱
 disheveled,untidy           ,散亂的;蓬散的
@@ -305,7 +290,6 @@ dulcet,melodious harmonious          ,優美的 美妙的 美味的 悅耳的
 dupe,cheat make a fool of       ,傻瓜 易受騙的人欺騙 愚弄
 duplicity,deliberate deception          ,口是心非 不誠實 表�堣ㄓ@
 duress,threats to compel smb        ,強迫 監禁
-dwarf,person or smb much below the usual size    ,矮子 侏儒(使)變矮小
 dynamo,a generator something that produces electric current     ,發電機
 earthenware,dishes made of baked clay       ,土器;陶器
 ebullience,exuberance outburst of feeling        ,沸騰 熱情 熱情洋溢
@@ -316,7 +300,7 @@ eddy,circular or spiral movement (e.g.. of wind)     ,逆流 漩渦(使)起漩
 edible,fit to be eaten/not poisonous     ,食品 食物可食用的
 effete,infertile worn out weak        ,筋疲力盡的 疲憊的 衰微的
 efficacy,production of a desired result       ,功效 效力
-effluvia,outflow in a stream of particles a noxious odor or vapor , 臭氣,惡臭 effluvium的復數形
+effluvia,outflow in a stream of particles a noxious odor or vapor , effluvium 臭氣,惡臭 的復數形
 effrontery,boldness impudence arrogance         ,厚顏無恥
 egress,way out exit         ,出口 外出外出
 elaborate,worked out with much care in great detail    ,精細的 詳盡的 精心的詳細地說明 用心地製作 推敲變復雜
@@ -348,7 +332,6 @@ enthral,please greatly/enslave (fig)       ,迷惑;迷醉;迷住;奴役
 entice,tempt or persuade       ,誘騙 引誘 慫恿
 entreat,ask earnestly          ,懇求 乞求
 enunciate,pronounce (words)/express a theory      ,明確地敘述 表明發音
-enzyme,catalyst           ,□
 epicurean,devoted to pleasure (sensuous enjoyment)       ,享樂主義者 美食家 信奉伊比鳩魯學說者貪口福的 享樂主義的
 epistle,letter           ,書信
 epithet,adjective           ,渾名 綽號 稱號
@@ -373,22 +356,18 @@ evince,to show clearly to indicate       ,表明 表示
 evoke,call up bring out        ,喚起 引起
 excoriation,severe criticism          ,表皮脫落 嚴厲的責難 苛責
 exculpate,to clear from a charge of guilt     ,使無罪 分辯 辯解 開脫
-exhaustive,complete thorough          ,會耗盡的 徹底的 詳盡無遺的
 exigency,emergency an urgent situation        ,緊急 急迫 苛求 緊急事件
 exoneration,set smb clear free (e.g.. from blame)     ,釋罪 免罪 免除
 exorbitant,much too high or great       ,過度的 過高的 過分的
 expatiate,to roam wander freely        ,詳述 細說
 expedient,likely to be useful for a purpose     ,權宜之計 臨時手段權宜的 方便的 有用的
 expiation,ending expiring          ,贖罪 補償
-exploit,brilliant achievement develop use selfishly       ,剝削 開發 利用功勞 功績 功勛
 expostulate,argue earnestly to dissuade correct or protest     ,勸誡 忠告 抗議
 expurgate,to remove obscenity purify censor       ,刪除 修訂 使純潔
 exscind,to cut out cut away       ,切除 切斷
 extant,still in existence         ,現存的 未毀的
 extempore,without previous thought or preparation     ,即席的 當場的即席 當場即席之作
 extenuate,reduce the strength of lessen seriousness partially excuse    ,減輕 使人原諒
-extinct,no longer active         ,熄滅的 滅絕的 耗盡的
-extinguish,end the existence of/wipe or put out   ,熄滅 消滅 償清
 extirpate,to destroy exterminate cut out exscind      ,消滅 根除 毀滅
 extol,praise highly          ,頌揚 稱贊 吹捧
 extort,obtain by threats violence        ,勒索 敲詐 強要
@@ -490,7 +469,6 @@ guile,deceit cunning          ,狡猾 狡計
 gullible,easily gulled          ,易受騙的
 gush,burst out suddenly/talk ardently      ,湧出 滔滔不絕的講話湧出 迸出 滔滔不絕的講話
 gust,outburst of feeling sudden rain wind fire etc.    ,陣風 一陣 迸發
-hack,cut roughly hired horse        ,劈 砍 砍痕 出租車 乾咳 飼草架 曬架 鶴嘴鋤劈 砍 出租 用舊劈
 halcyon,calm and peaceful       ,想象中的一種鳥 形同翠鳥 翠鳥寧靜的 平穩的 翠鳥的
 hallow,to make holy consecrate        ,使…神聖 視為神聖聖徒
 harangue,a long passionate speech        ,熱烈的討論 長篇大論 誇張的話向…誇大地講話
@@ -507,7 +485,6 @@ highbrow,(person) with superior tastes      ,知識分子 賣弄知識的人自
 hirsute,hairy shaggy          ,多毛的 有粗毛的
 hoax,mischievous trick played on smb for a joke    ,欺騙 哄騙 愚弄愚弄人 惡作劇
 hoi,polloi the masses the rabble       ,hoi polloi  庶民
-hollow,not soled with hole        ,洞 窟窿 山谷空的 虛偽的 空腹的 凹的形成空洞挖空
 holster,leather case for a pistol       ,手槍用的皮套
 homiletics,act of preaching       ,說教術
 hone,stone used for sharpening tools       ,磨刀石 抱怨 想念用磨刀石磨
@@ -580,7 +557,6 @@ ineffable,to great to be described in words     ,無法形容的 說不出的 �
 ineluctable,certain inevitable          ,不可避免的 無法逃避的
 inept,unskillful said or done at the wrong time    ,不適當的 無能的 笨拙的
 ineptitude,quality of being unskillful      ,不適當 愚笨 愚昧的言行
-inferno,hell         ,陰間 地獄
 infuriate,fill with fury or rage       ,狂怒的激怒
 infuse,put pour fill         ,注入 泡出味道 鼓舞泡 注
 ingenuous,naive young artless frank honest sincere      ,坦白的 正直的 天真的
@@ -710,7 +686,6 @@ oblivious,unaware having no memory        ,忘卻的 忘記的 健忘的 不注
 obloquy,abusively detractive language sharp criticism vituperation      ,漫罵 叱罵 毀謗
 obsequious,too eager to obey or serve      ,諂媚的 奉承的 順從的
 obstreperous,noisy loud          ,吵鬧的 喧囂的 亂鬧的 任性的
-obtain,to be established accepted or customary      ,獲得 達到流行
 obtrusive,projecting prominent undesirably noticeable        ,強迫人的 冒失的 莽撞的 伸出的
 obtuse,blunt/stupid         ,鈍的 不尖的 圓頭的
 obviate,to make unnecessary get rid of      ,除去 排除 回避 預防 避免
@@ -838,7 +813,6 @@ proscribe,denounce as dangerous         ,剝奪人權;放逐;排斥
 protracted,prolonged           ,拖延的
 provident,frugal looking to the future       ,有先見之明的 有遠慮的 節儉的
 provisional,of the present time only       ,暫時的 暫定的 臨時的
-provoke,make angry vax         ,挑舋 激怒 招惹 引起
 prudence,careful forethought          ,審慎 慎重 精明 節儉
 prudish,easily shocked excessively modest        ,裝淑女樣子的 裝規矩的 過分規矩的
 prune,dried plum silly person        ,幹梅子 梅幹 深紫紅色 傻瓜修剪 砍掉 刪除刪除 刪節
@@ -884,13 +858,10 @@ reciprocity,granting of privileges in return for similar     ,相互性 相互�
 recital,a number of performance of music      ,背誦 吟誦 詳述
 recluse,person who lives alone and avoids people     ,隱遁的 寂寞的隱遁者 遁世者
 recompense,make payment to reward punish       ,報償 酬金 賠償報償 賠償 報酬
-reconcile,settle a quarrel restore peace       ,使和解 調停 使和諧 使一致 使順從 使聽從
 recondite,little known abstruse         ,深奧的 難解的 隱藏的
 recreancy,cowardice a cowardly giving up       ,膽小 怯懦 不義
 recuperate,become strong after illness loss exhaustion      ,恢復 使復原 使恢復健康 使恢復精神 彌補復原 恢復健康 彌補損失
-redeem,get back by payment compensate       ,贖回 挽回 恢復 償還 履行 補償
 redoubtable,formidable causing fear         ,可怕的 厲害的 著名的
-refine,make or become pure cultural       ,精煉 淨化 使優雅 使精練精煉 淨化 推敲
 refractory,stubborn unmanageable untractable         ,不聽話的 執拗的 難治療的
 refulgent,shining brilliant          ,輝煌的 燦爛的
 regale,to delight or entertain to feast      ,款待 使快樂 使吃喝 使享用享用盛宴 佳肴 款待
@@ -913,17 +884,14 @@ requite,repay give in return        ,報答 報酬 還禮
 rescind,repeal/annul/cancel         ,廢止 使無效 取消 撤消 解除
 resigned,unresisting submissive          ,認命的 服從的 聽任的 已放棄的
 resilience,quality of quickly recovering the original shape     ,彈回 有彈力 恢復力
-resort,to frequently visit         ,求助 訴諸 採取 憑借常去 常去的地方 勝地
 restive,refusing to move reluctant to be controlled     ,不願向前走的 倔強的 難駕禦的
 resuscitation,coming back to consciousness        ,復生 復興
 retard,check hinder          ,阻止 延遲妨礙 延遲 遲緩減速 延遲
 reticent,reserved untalkative silent taciturn        ,無言的 沈默的 謹慎的
 revere,have deep respect for        ,崇敬 敬畏 尊敬
 reverent,feeling or showing deep respect     ,尊敬的 虔誠的
-riddle,puzzling person or thing      ,謎 謎語 粗篩解謎 給…出謎 篩 檢查 鑒定 非難 充滿於出謎
 rift,split crack dissension         ,裂口 隙縫 切口裂開分開 割開 穿透
 rivet,fix take up secure metal pin      ,鉚釘用鉚釘固定 敲進去 注目 固定
-roll,call calling of names        ,卷 滾動 名單 案卷 壓路機 翻滾滾 滾動 飄流 起伏 卷 繞使滾動
 rotund,rich and deep plump and round      ,圓的 圓胖的 洪亮的
 ruffian,violent cruel man         ,惡棍 無賴凶惡的 殘忍的 殘暴的
 rumple,make rough        ,弄皺 弄得亂七八糟皺紋 皺褶
@@ -934,7 +902,6 @@ salutary,remedial wholesome causing improvement        ,有益的 有用的 有
 sanctimony,self-righteousness hypocritical with FALSE piety       ,假裝的聖人氣派 假裝的虔誠 神聖
 sanction,approval (by authority) penalty        ,核准 處罰 約束力制定制裁規則 認可 核准 同意
 sanguine,cheerful confident optimistic         ,血紅色的 滿懷希望的 指望的血紅色 紅臘筆以血沾汙 血染
-sanity,health of mind soundness of judgement      ,神智健全 頭腦清楚 健全
 sash,long strip worn round the waist    ,框格 肩帶 腰帶裝以窗框 系上腰帶
 satiate,satisfy fully          ,使飽足 使厭膩 使充分滿足飽足的 吃飽的
 saturnine,gloomy dark sullen morose        ,沈默寡言的 陰沈的 感染鉛毒的
@@ -950,7 +917,6 @@ secular,material (not spiritual) living outside monasteries      ,牧師 俗人
 sedulous,persevering           ,勤勉的 勤苦工作的 聚精會神的
 seminal,like a seed constituting a source originative     ,精液的 種子的 生殖的
 sententious,short and pithy full of maxims/proverbs      ,簡潔的 警句的 富於格言的
-sequence,succession connected line of        ,順序 連續 次序按順序排好順序 序列 繼起的事
 sere,make hard and without feeling     ,乾枯的演替系列
 sermon,reproving a person for his faults    ,說教 訓誡 佈道
 serrated,having a toothed edge        ,鋸齒狀的;有鋸齒的
@@ -958,7 +924,6 @@ serration,having a toothed edge        ,鋸齒狀 鋸齒狀突起
 servile,like a slave lacking independence       ,奴隸的 奴隸根性的 卑屈的
 sever,break off        ,切斷 脫離 分開 使分離 斷絕 中斷斷 裂開 被分開
 severance,severing           ,切斷 分離 隔離
-shallow,little depth not earnest        ,水淺的地方 淺灘淺的 膚淺的(使)變淺
 shard,piece of broken earthenware        ,瓷器的碎片;碎片;翅鞘;外殼
 sheath,cover for the blade of a weapon or a tool  ,鞘 葉鞘 翅鞘
 shrewd,astute showing sound judgement        ,精明的 銳利的 劇烈的 機靈的 厲害的
@@ -979,14 +944,12 @@ smolder,burn slowly without flame      ,悶燒 鬱積悶燒
 snare,trap         ,陷阱 誘惑 圈套以陷阱捕獲 誘惑
 snub,treat with contempt       ,輕待 冷落 斥退短而扁的輕待 冷落 制止 怠慢
 soar,rise fly high         ,高揚 ?翔往上飛舞 高聳 ?翔
-sober,self-controlled           ,清醒的 穩重的 節制的 嚴肅的 不誇大的 合理的 樸素的使清醒
 sobriety,quality or condition of being sober      ,節酒 節制 一本正經 莊重
 sodden,soaked saturated          ,渾身濕透的 不成樣子的 浸過酒的拿水浸 使變呆被浸濕
 soggy,heavy with water         ,浸水的 沈悶的
 solvent,of the power of forming a solution     ,溶劑有償付能力的 有溶解力的
 somatic,of the body         ,身體的 肉體的 身體的
 soot,black powder in smoke        ,煤煙 煙塵熏以煤煙
-sophisticated,complex subtle refined         ,老練的 老於世故的;復雜的 尖端的
 sophistry,fallacious reasoning faulty logic        ,詭辯
 sophomoric,self-assured though immature affected bombastic overblown      ,有二年級學生樣的
 soporific,producing sleep        ,催眠的 想睡的催眠劑 安眠藥
@@ -995,12 +958,10 @@ spear,weapon with a metal point on a long shaft   ,矛 槍 持矛者用矛刺�
 specious,illogical of questionable truth or merit      ,徒有其表的 似是而非的 外表美觀的
 splenetic,bad-tempered irritable          ,脾臟的 容易發怒的 壞心眼的脾臟病患者 壞心眼的人 脾臟病的藥
 splice,join (two ends)         ,接合 撚接 疊接 使結婚接合 疊接 結婚
-sponge,porous rubber for washing live at once expense    ,海綿 海綿狀的東西用海綿擦拭 吸收掉 抹掉採集海綿 海綿般吸收
 spurious,FALSE counterfeit          ,假造的 偽造的 欺騙的
 spurn,have nothing to do reject or refuse     ,踢開 拒斥踢到一旁 冷落 踐踏 唾棄藐視 摒棄
 squalid,foul filthy          ,汙穢的 骯臟的 悲慘的 可憐的 卑劣的
 squander,spend wastefully          ,浪費 使分散浪費 漂泊 四散
-squat,crouch/settle without permission       ,蹲 矮胖子蹲著的 矮胖胖的蹲下 坐 蹲伏使蹲下 霸佔
 stanch,to stop the flow of a fluid     ,使止血 止住 停止 止血堅固的 堅強的 忠實的
 steeply,rising or falling sharply        ,險峻地
 stentorian,extremely loud and powerful        ,聲音洪亮的
@@ -1134,7 +1095,6 @@ vestige,trace or sign       ,遺跡 痕跡 殘餘 絲毫 退化的器官
 vex,annoy distress trouble         ,使煩惱 惱怒
 vigilance,watchfulness self-appointed group who maintain order      ,警戒 警覺心 失眠症
 vigilant,member of a vigilance committee       ,警醒的 警戒著的 警惕的
-vigorous,strong energetic          ,精力充沛的 元氣旺盛的 有力的
 vilify,slander say evil things        ,誹謗 貶低 輕視
 vindictive,having a desire to revenge       ,有報仇心的 懷恨的 懲罰的
 virago,a loud domineering woman a scold or nag    ,潑婦 悍婦 女英雄
@@ -1143,7 +1103,6 @@ viscous,sticky/semi-fluid         ,粘的 有粘性的 粘性的
 vitiate,lower the quality weaken the strength      ,使腐敗 污染 使墮落 敗壞 使失效
 vituperate,curse abuse in words        ,謾罵 責罵
 vivacious,lively high-spirited          ,活潑的 快活的 多年生的
-volatile,changeable inconstant fickle unstable explosive       ,揮發性的 可變的 不穩定的 飛行的 輕快的 爆炸性的有翅的動物 揮發物
 volubility,fluency verbosity easy use of spoken language     ,饒舌 好說話 愛說話
 voluble,fluent           ,流利的 健談的 易旋轉的 纏繞的
 waffle,talk vaguely and without much result    ,閑聊 胡扯華夫餅幹 無聊話
@@ -1152,12 +1111,9 @@ wag,merry person          ,搖擺 搖動 饒舌擺動 喋喋不休搖擺 小�
 warmonger,person who stirs up war       ,戰爭販子 好戰者 主戰論者
 warrant,authority written order guarantee        ,正當理由 根據 証明 批准 憑証 許可証 委任狀保証 辯解 擔保 批准
 wean,to turn away (from a habit)    ,使斷奶 使丟棄 使斷念小兒
-weigh,measure hoe heavy smth is       ,稱…重量 衡量 重壓 考慮 權衡 起錨稱分量 有意義 重壓
 welter,turmoil a bewildering jumble        ,翻滾 滾動 掙紮 沈溺 浸濕 顛簸翻滾 洶湧 混亂 起伏 重騎師
 wend,to go proceed         ,行 走往
-whimsical,full of odd and fanciful ideas      ,心情浮動的 反復無常的 古怪的 異想天開的
 wince,show bodily or mental pain       ,畏縮 退避畏縮 退縮 退避
-woo,try to win         ,向…求愛 追求 懇求求愛 懇求
 writ,written order        ,令狀 文書 文件 命令
 yarn,tale story fibers for knitting,紗 毛線 金屬絲;故事 奇談 謊言
 
